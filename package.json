@@ -1,0 +1,27 @@
+{
+  "name": "learning-webpack",
+  "version": "1.0.0",
+  "description": "Learning Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zce/learning-webpack.git"
+  },
+  "keywords": [],
+  "author": "iceStone <ice@micua.com> (http://blog.wedn.net/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zce/learning-webpack/issues"
+  },
+  "homepage": "https://github.com/zce/learning-webpack#readme",
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "jquery": "^3.0.0",
+    "json-loader": "^0.5.4",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1"
+  }
+}
